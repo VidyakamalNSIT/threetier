@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "myapp.testdomain123mohan.tk",
+        "Name": "myapp.critosys.ml",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
